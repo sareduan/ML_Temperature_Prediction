@@ -17,7 +17,6 @@ This is an **end-to-end machine learning project** to predict daily temperatures
 - Weekday (Weekday)  
 
 ## Machine Learning Models
-
 ### Regression Models
 - Linear Regression  
 - Random Forest Regressor  
@@ -48,7 +47,7 @@ Bar chart showing predicted temperatures for next 6 months:
 - Red → Hot
 
 ## How to Run
-bash
+```bash
 # Install dependencies
 pip install -r requirements.txt
 # Run the project
