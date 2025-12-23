@@ -40,21 +40,20 @@ This is an **end-to-end machine learning project** to predict daily temperatures
   - Cold (≤21°C)  
   - Normal (22–29°C)  
   - Hot (≥30°C)  
-
 ## Visualization
-- Bar chart with **color-coded categories**  
-  - Cold → Blue  
-  - Normal → Green  
-  - Hot → Red  
+Bar chart showing predicted temperatures for next 6 months:
+![Temperature Prediction](future_temperature_plot.png)
+- Blue → Cold  
+- Green → Normal  
+- Red → Hot
 
-Example chart:  
-*(you can include a screenshot here)*
-
-## ▶️ How to Run
+## How to Run
 bash
 # Install dependencies
 pip install -r requirements.txt
-
 # Run the project
 python temp.py
 
+
+## Author
+Sijan Ahmed Reduan
