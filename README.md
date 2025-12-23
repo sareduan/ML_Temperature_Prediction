@@ -52,7 +52,7 @@ Bar chart showing predicted temperatures for next 6 months:
 pip install -r requirements.txt
 # Run the project
 python temp.py
-
+```
 
 ## Author
 Sijan Ahmed Reduan
